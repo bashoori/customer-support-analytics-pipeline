@@ -1,0 +1,6 @@
+ticket_id,customer_message,main_problem,customer_request,sentiment,category
+1001,My order arrived three days late and the box was damaged. I want a refund.,Delivery,Refund,Negative,Delivery
+1002,I was charged twice for the same order. Please return the extra payment.,Billing,Return the extra payment,Negative,Billing
+1003,The laptop stopped working after two days. I need a replacement.,Laptop stopped working,Replacement,Negative,Technical
+1004,Where is my order? It has been a week and I have no tracking update.,Order tracking,Tracking update,Negative,Delivery
+1005,The shoes are too small. Can I exchange them for a larger size?,Shoes are too small,Exchange for a larger size,Negative,Returns
