@@ -119,6 +119,13 @@ Save the validated results as a processed CSV file that can be consumed by downs
 
 The planned Power BI dashboard will explore complaint volume by category, common customer requests, and recurring delivery or product issues.
 
+## Dashboard Preview
+
+![Customer Support Analytics Dashboard](powerbi/dashboard_screenshots/customer_support_analytics_dashboard.png)
+
+The dashboard presents customer ticket volume, issue categories,
+sentiment analysis, customer requests, and detailed ticket records.
+
 ## Getting Started
 
 ### Prerequisites
